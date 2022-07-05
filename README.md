@@ -24,4 +24,4 @@ Before start project you should create `.env` file. Look into `.env.template`.
 
 #### MySQL 
 
-Database file - database.sql
+Database file - `database.sql`
